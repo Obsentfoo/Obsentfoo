@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Obsentfoo
 - 👀 I’m interested in paper airplane and coding
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning: C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: luogu.com.cn,Obsent_yixiaoxuan
 - - 😄 Pronouns: #include <bits/stdc++.h>
